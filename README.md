@@ -1,6 +1,24 @@
 # BlackArch + MangoWM desktop setup
 
-A shareable snapshot of the current MangoWM and Noctalia desktop configuration. The tree mirrors paths under a home directory and includes shell/editor defaults, display profiles, and relevant launchers. It excludes browser profiles, cookies, saved logins, Spotify state, Wi-Fi credentials, and other personal application data.
+A shareable snapshot of the current MangoWM and Noctalia desktop configuration. The tree mirrors paths under a home directory and includes shell/editor defaults, display profiles, and relevant launchers. It excludes browser profiles, cookies, saved logins, Spotify app state, Wi-Fi credentials, and other application data. The screenshot gallery contains original, unredacted captures and visibly includes system, network, and account details.
+
+## Screenshots
+
+These screenshots show the desktop, Noctalia media controls, launcher, and appearance settings. They are the original, unredacted captures.
+
+<details>
+<summary>View desktop screenshots</summary>
+
+![Desktop overview](screenshots/screenshot_20261027_134907-region.png)
+
+![Noctalia media controls](screenshots/screenshot_20261027_134932-region.png)
+
+![Application launcher and dock](screenshots/screenshot_20261027_135906-region.png)
+
+![Appearance settings and desktop](screenshots/screenshot_20261027_140204-region.png)
+
+</details>
+
 
 ## Contents
 
