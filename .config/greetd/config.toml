@@ -1,0 +1,6 @@
+[terminal]
+vt = 1
+
+[default_session]
+command = "tuigreet --time --remember --remember-user-session --sessions /etc/greetd/sessions --session-wrapper 'dbus-run-session --' --greeting 'BLACKARCH | F3: Choose MangoWM session'"
+user = "greeter"

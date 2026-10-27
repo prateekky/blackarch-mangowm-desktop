@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Display Profiles
+Comment=Switch between saved Mango display layouts
+Exec=sh -c "$HOME/.local/bin/mango-display-profile --select"
+Icon=video-display
+Terminal=false
+Categories=Settings;HardwareSettings;

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=MangoWM
+Comment=BlackArch Wayland session
+Exec=mango
+TryExec=/usr/bin/mango
+Type=Application
+DesktopNames=mango;wlroots;

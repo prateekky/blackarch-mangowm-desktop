@@ -1,0 +1,13 @@
+# User and machine state
+**/__pycache__/
+*.py[cod]
+*.swp
+*.swo
+.DS_Store
+# Never publish browser profiles, credentials, or app sessions
+**/firefox/**
+**/cookies*
+**/logins*
+**/key4.db
+**/cert9.db
+**/pulse/cookie

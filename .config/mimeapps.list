@@ -1,0 +1,14 @@
+
+[Default Applications]
+text/html=firefox.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/about=firefox.desktop
+x-scheme-handler/unknown=firefox.desktop
+application/xhtml+xml=firefox.desktop
+inode/directory=nemo.desktop
+application/x-gnome-saved-search=nemo.desktop
+text/plain=org.xfce.mousepad.desktop
+text/markdown=org.xfce.mousepad.desktop
+text/x-python=org.xfce.mousepad.desktop
+text/x-shellscript=org.xfce.mousepad.desktop
